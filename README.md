@@ -12,7 +12,7 @@ For confidentiality reasons, the full codebase is not shared here. Instead, this
 - **Task Management:** Tasks and feature assignments were tracked using **Jira**, ensuring clear responsibilities and timely delivery.  
 - **Version Control & Code Review:** Contributed code and collaborated through **Bitbucket Pull Requests**, following best practices for code review, branching, and merging.  
 - **Agile Practices:** Participated in sprint planning, daily stand-ups, and retrospective meetings to maintain smooth development cycles.  
---
+
 ## 🎯 My Contributions
 - **Front-End Development (Primary Role):**  
   - Designed and implemented responsive user interfaces using modern frameworks.  
